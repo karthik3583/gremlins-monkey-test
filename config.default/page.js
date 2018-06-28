@@ -1,5 +1,5 @@
 export default {
-  entryPoint: 'https://www.pccomponentes.com',
+  entryPoint: 'http://localhost:4200/home',
   allowOtherPages: true,
   viewport: {
     width: 1024,
