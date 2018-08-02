@@ -1,5 +1,5 @@
 export default {
-  entryPoint: 'http://localhost:8888/home',
+  entryPoint: 'https://localhost:8888/home'
   allowOtherPages: true,
   viewport: {
     width: 1024,
