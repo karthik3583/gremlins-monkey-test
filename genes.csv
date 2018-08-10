@@ -1,0 +1,285 @@
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+clicker    dblclick at 780 386
+toucher    tap at 934 301 {"duration":673}
+typer       type 98 at 860 376
+clicker    mouseout at 758 326
+scroller   scroll to 0 0
+clicker    mouseout at 893 435
+toucher    gesture at 96 371 {"distanceX":-99,"distanceY":30,"duration":495}
+typer       type 11 at 817 173
+scroller   scroll to 0 0
+formFiller input Z in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+scroller   scroll to 0 0
+toucher    gesture at 702 207 {"distanceX":-95,"distanceY":-55,"duration":147}
+typer       type 255 at 833 751
+clicker    mouseover at 684 243
+formFiller input R in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+toucher    gesture at 856 56 {"distanceX":-65,"distanceY":178,"duration":229}
+scroller   scroll to 0 2
+scroller   scroll to 0 13
+typer       type 149 at 1014 6
+clicker    mousemove at 321 232
+typer       type 257 at 566 518
+scroller   scroll to 23 22
+typer       type 54 at 144 149
+typer       type 26 at 277 656
+scroller   scroll to 11 9
+scroller   scroll to 10 1
+formFiller input 5 in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+typer       type 212 at 662 381
+scroller   scroll to 0 0
+toucher    gesture at 928 335 {"distanceX":88,"distanceY":37,"duration":236}
+clicker    click at 913 266
+clicker    mouseout at 722 743
+toucher    tap at 74 440 {"duration":450}
+typer       type 2 at 840 93
+toucher    gesture at 323 173 {"distanceX":-75,"distanceY":162,"duration":187}
+formFiller input P in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+toucher    gesture at 202 665 {"distanceX":157,"distanceY":19,"duration":360}
+toucher    gesture at 63 177 {"distanceX":163,"distanceY":5,"duration":189}
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+clicker    mousedown at 472 119
+clicker    mousedown at 187 58
+typer       type 265 at 945 349
+formFiller input $ in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+formFiller input d in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+scroller   scroll to 0 0
+clicker    click at 496 159
+typer       type 214 at 604 527
+formFiller input C in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+clicker    mouseup at 536 94
+formFiller input W in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+clicker    click at 998 475
+scroller   scroll to 0 0
+clicker    click at 564 150
+clicker    mouseup at 783 21
+clicker    click at 814 668
+typer       type 345 at 804 644
+clicker    dblclick at 851 564
+scroller   scroll to 0 0
+clicker    mousedown at 832 179
+scroller   scroll to 0 0
+clicker    click at 145 646
+clicker    mouseover at 354 524
+scroller   scroll to 0 0
+toucher    gesture at 0 197 {"distanceX":-74,"distanceY":78,"duration":452}
+clicker    mouseover at 66 86
+clicker    click at 788 539
+typer       type 166 at 524 641
+clicker    mouseup at 34 272
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+typer       type 124 at 917 430
+typer       type 240 at 699 108
+formFiller input ] in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+typer       type 117 at 43 54
+toucher    tap at 946 181 {"duration":164}
+toucher    multitouch at 53 695 {"scale":0.8795,"rotation":-26,"radius":173,"distanceX":20,"distanceY":-12,"duration":709}
+typer       type 146 at 407 222
+clicker    click at 990 123
+clicker    mouseout at 477 538
+clicker    mouseout at 551 518
+clicker    mousemove at 59 709
+toucher    gesture at 141 138 {"distanceX":177,"distanceY":137,"duration":441}
+toucher    gesture at 261 158 {"distanceX":139,"distanceY":-78,"duration":243}
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+typer       type 156 at 508 699
+typer       type 311 at 31 644
+toucher    tap at 599 25 {"duration":146}
+scroller   scroll to 0 0
+typer       type 354 at 124 66
+typer       type 199 at 573 687
+toucher    tap at 845 250 {"duration":440}
+clicker    mousemove at 496 83
+toucher    doubletap at 262 84 {"duration":620}
+typer       type 257 at 953 230
+formFiller input p in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+scroller   scroll to 0 0
+formFiller input p in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+clicker    dblclick at 543 745
+scroller   scroll to 0 0
+typer       type 18 at 457 504
+toucher    tap at 608 702 {"duration":287}
+typer       type 123 at 803 282
+scroller   scroll to 0 0
+typer       type 305 at 802 475
+formFiller input [ in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+typer       type 197 at 65 512
+toucher    gesture at 591 664 {"distanceX":-23,"distanceY":148,"duration":26}
+toucher    gesture at 456 636 {"distanceX":-48,"distanceY":27,"duration":318}
+typer       type 169 at 967 20
+clicker    mouseover at 160 182
+clicker    click at 143 623
+clicker    dblclick at 227 30
+toucher    gesture at 379 712 {"distanceX":50,"distanceY":166,"duration":124}
+toucher    doubletap at 735 277 {"duration":356}
+scroller   scroll to 0 0
+formFiller input @ in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+clicker    mouseover at 83 155
+typer       type 304 at 693 211
+formFiller input T in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+clicker    mouseover at 372 766
+typer       type 129 at 714 239
+formFiller input p in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+clicker    click at 897 188
+toucher    gesture at 709 364 {"distanceX":200,"distanceY":172,"duration":23}
+clicker    mouseover at 124 326
+toucher    multitouch at 626 510 {"scale":0.7571,"rotation":75,"radius":179,"distanceX":2,"distanceY":18,"duration":1079}
+typer       type 115 at 275 412
+clicker    mouseover at 474 479
+scroller   scroll to 0 0
+typer       type 113 at 1016 600
+toucher    tap at 775 559 {"duration":51}
+typer       type 89 at 476 356
+scroller   scroll to 17 0
+scroller   scroll to 27 0
+clicker    mouseover at 669 303
+clicker    mousedown at 744 737
+clicker    dblclick at 450 718
+formFiller input k in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+scroller   scroll to 0 0
+toucher    multitouch at 552 751 {"scale":0.5613,"rotation":-70,"radius":166,"distanceX":8,"distanceY":-14,"duration":208}
+toucher    multitouch at 723 188 {"scale":1.8581,"rotation":-13,"radius":74,"distanceX":20,"distanceY":-2,"duration":1062}
+typer       type 158 at 955 292
+typer       type 204 at 850 464
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+typer       type 159 at 12 269
+clicker    mouseover at 536 16
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+clicker    dblclick at 296 629
+typer       type 187 at 821 516
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+typer       type 286 at 567 488
+clicker    mouseout at 785 158
+formFiller input m in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+clicker    click at 420 757
+typer       type 326 at 304 341
+clicker    mouseover at 803 230
+formFiller input G in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+formFiller input A in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+clicker    mouseover at 336 69
+clicker    mouseover at 652 151
+formFiller input K in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+clicker    mousemove at 1000 358
+typer       type 176 at 896 256
+clicker    mouseout at 45 592
+toucher    gesture at 53 135 {"distanceX":41,"distanceY":-70,"duration":425}
+toucher    multitouch at 98 290 {"scale":0.1457,"rotation":64,"radius":172,"distanceX":-18,"distanceY":-17,"duration":736}
+toucher    multitouch at 799 163 {"scale":0.3057,"rotation":-19,"radius":147,"distanceX":-9,"distanceY":9,"duration":497}
+clicker    mousedown at 899 745
+scroller   scroll to 0 0
+typer       type 307 at 951 635
+toucher    tap at 416 248 {"duration":104}
+scroller   scroll to 0 0
+clicker    click at 299 21
+scroller   scroll to 0 0
+toucher    gesture at 127 749 {"distanceX":33,"distanceY":-18,"duration":242}
+clicker    mouseup at 396 41
+scroller   scroll to 0 0
+formFiller input 1 in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+formFiller input a in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+clicker    click at 731 668
+formFiller input $ in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+formFiller input ^ in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+typer       type 150 at 701 409
+clicker    mouseover at 666 701
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+formFiller input 3 in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+clicker    click at 106 220
+clicker    click at 361 402
+toucher    gesture at 132 433 {"distanceX":-20,"distanceY":47,"duration":472}
+formFiller input X in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+toucher    tap at 16 131 {"duration":37}
+formFiller input r in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+typer       type 236 at 660 405
+toucher    doubletap at 745 765 {"duration":286}
+toucher    tap at 255 573 {"duration":128}
+scroller   scroll to 0 0
+formFiller input u in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+scroller   scroll to 0 0
+typer       type 356 at 754 405
+scroller   scroll to 0 6
+formFiller input r in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+formFiller input I in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+clicker    mousemove at 558 428
+typer       type 252 at 100 153
+toucher    doubletap at 833 619 {"duration":361}
+clicker    dblclick at 389 745
+formFiller input 3 in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+formFiller input q in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+scroller   scroll to 0 0
+toucher    tap at 827 185 {"duration":171}
+scroller   scroll to 0 0
+formFiller input 4 in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+toucher    tap at 84 339 {"duration":93}
+formFiller input B in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+typer       type 286 at 301 148
+clicker    mouseover at 822 459
+scroller   scroll to 0 0
+clicker    click at 932 355
+scroller   scroll to 0 0
+toucher    gesture at 694 725 {"distanceX":-96,"distanceY":140,"duration":398}
+formFiller input 7 in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+typer       type 156 at 100 416
+clicker    click at 321 126
+typer       type 68 at 689 601
+toucher    tap at 195 354 {"duration":301}
+clicker    click at 448 633
+scroller   scroll to 0 27
+clicker    dblclick at 150 280
+typer       type 50 at 1007 323
+clicker    mouseover at 50 289
+formFiller input C in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__iconClickedfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:iconClicked","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+clicker    click at 242 351
+scroller   scroll to 0 10
+toucher    multitouch at 884 592 {"scale":0.5637,"rotation":-45,"radius":60,"distanceX":-5,"distanceY":3,"duration":311}
+clicker    mouseover at 821 762
+scroller   scroll to 21 4
+clicker    dblclick at 378 214
+typer       type 104 at 634 425
+clicker    mouseout at 22 88
+typer       type 145 at 601 731
+scroller   scroll to 13 7
+toucher    multitouch at 573 684 {"scale":1.6036,"rotation":2,"radius":119,"distanceX":-13,"distanceY":-16,"duration":927}
+typer       type 321 at 981 367
+typer       type 256 at 499 35
+typer       type 326 at 513 185
+formFiller input T in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+scroller   scroll to 0 0
+typer       type 263 at 617 291
+toucher    multitouch at 175 22 {"scale":0.2877,"rotation":85,"radius":167,"distanceX":-15,"distanceY":19,"duration":361}
+typer       type 37 at 359 681
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+toucher    gesture at 183 176 {"distanceX":105,"distanceY":-10,"duration":147}
+scroller   scroll to 0 0
+scroller   scroll to 0 0
+formFiller input w in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+clicker    mouseover at 281 613
+formFiller input 
+formFiller input n in {"__zone_symbol__ngModelChangefalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:ngModelChange","zone":"angular","runCount":0}],"__zone_symbol__inputfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:input","zone":"angular","runCount":0}],"__zone_symbol__blurfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:blur","zone":"angular","runCount":0}],"__zone_symbol__compositionstartfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionstart","zone":"angular","runCount":0}],"__zone_symbol__compositionendfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:compositionend","zone":"angular","runCount":0}],"__zone_symbol__focusfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:focus","zone":"angular","runCount":0}]}
+toucher    gesture at 855 340 {"distanceX":172,"distanceY":128,"duration":224}
+typer       type 86 at 708 343
+scroller   scroll to 0 0
+formFiller input P in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+toucher    tap at 569 327 {"duration":313}
+clicker    click at 38 459
+typer       type 19 at 1009 246
+toucher    multitouch at 959 279 {"scale":0.5315,"rotation":-27,"radius":196,"distanceX":0,"distanceY":15,"duration":1358}
+clicker    mouseup at 449 629
+typer       type 86 at 630 630
+toucher    gesture at 107 246 {"distanceX":183,"distanceY":121,"duration":241}
+formFiller input $ in {"__zone_symbol__clickfalse":[{"type":"eventTask","state":"scheduled","source":"HTMLInputElement.addEventListener:click","zone":"angular","runCount":0}]}
+clicker    click at 766 126
+clicker    dblclick at 88 86
+clicker    click at 327 184
+scroller   scroll to 0 0
